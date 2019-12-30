@@ -1,4 +1,4 @@
-# Data Science and machine Learning
+# Data Science and Machine Learning
 Using python for data science and machine learning  
 
 ## Creating Conda virtual environments
